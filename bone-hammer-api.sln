@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bone-hammer.Domain", "bone-hammer.Domain\bone-hammer.Domain.csproj", "{803AF675-E050-404F-BD1A-13645273824A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bone-hammer.Api", "bone-hammer.Api\bone-hammer.Api.csproj", "{72E209F7-0CF3-4BB6-997E-CAD67890061B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803AF675-E050-404F-BD1A-13645273824A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803AF675-E050-404F-BD1A-13645273824A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803AF675-E050-404F-BD1A-13645273824A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803AF675-E050-404F-BD1A-13645273824A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E209F7-0CF3-4BB6-997E-CAD67890061B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E209F7-0CF3-4BB6-997E-CAD67890061B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E209F7-0CF3-4BB6-997E-CAD67890061B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E209F7-0CF3-4BB6-997E-CAD67890061B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
